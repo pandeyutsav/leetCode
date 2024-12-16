@@ -1,2 +1,36 @@
 # leetCode
 "Organized C++ solutions for LeetCode, focusing on clean, efficient code and mastering DSA concepts."
+
+Here’s a description for your LeetCode repository:  
+
+---
+
+# 📘 LeetCode Solutions  
+
+Welcome to my **LeetCode Solutions** repository! 🚀  
+
+This repository contains my journey of solving problems on **LeetCode**, focusing on mastering **Data Structures and Algorithms (DSA)**. Each solution is crafted with clarity, efficiency, and simplicity to help others learn and improve their problem-solving skills.  
+
+## 🌟 Highlights  
+- 📂 Organized by **topic** and **difficulty level** (Easy, Medium, Hard).  
+- 📝 Clean, well-commented **Python code** for easy understanding.  
+- 🧠 Covers a wide range of DSA concepts like:  
+  - Arrays, Strings, and Hashing  
+  - Recursion and Backtracking  
+  - Linked Lists, Stacks, and Queues  
+  - Binary Trees, Graphs, and Dynamic Programming  
+- ✅ Updated regularly as I progress through my **3-month DSA roadmap**.  
+
+## 🎯 Goals  
+- Strengthen problem-solving skills through consistent practice.  
+- Help fellow coders understand concepts and logic behind each solution.  
+
+## 📚 How to Use  
+- Browse through the folders to explore specific topics or difficulty levels.  
+- Learn the approach behind the solutions using the comments and code structure.  
+
+Let’s crack the code together! 💪  
+
+---  
+
+Feel free to tweak it to reflect your preferences or additional repository features. 😊

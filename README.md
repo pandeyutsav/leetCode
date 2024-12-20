@@ -49,4 +49,20 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->

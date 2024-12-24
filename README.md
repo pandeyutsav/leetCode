@@ -56,16 +56,19 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pandeyutsav/leetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/pandeyutsav/leetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pandeyutsav/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/pandeyutsav/leetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pandeyutsav/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pandeyutsav/leetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pandeyutsav/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,4 +98,8 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Graph
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pandeyutsav/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->

@@ -41,6 +41,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
+| [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
@@ -50,6 +51,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
+| [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
@@ -106,4 +108,8 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pandeyutsav/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

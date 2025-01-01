@@ -119,4 +119,12 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/pandeyutsav/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/pandeyutsav/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->

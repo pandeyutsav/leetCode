@@ -45,6 +45,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyutsav/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyutsav/leetCode/tree/master/1063-best-sightseeing-pair) |
+| [2358-number-of-ways-to-split-array](https://github.com/pandeyutsav/leetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyutsav/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
@@ -129,5 +130,6 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pandeyutsav/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/pandeyutsav/leetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyutsav/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->

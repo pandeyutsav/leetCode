@@ -40,6 +40,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -62,6 +63,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -103,6 +105,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pandeyutsav/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
@@ -120,6 +123,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Graph
 |  |
@@ -198,4 +202,8 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/pandeyutsav/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

@@ -57,6 +57,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2533-bitwise-xor-of-all-pairings](https://github.com/pandeyutsav/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyutsav/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyutsav/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/pandeyutsav/leetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyutsav/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -91,6 +92,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1396-count-servers-that-communicate](https://github.com/pandeyutsav/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/pandeyutsav/leetCode/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/pandeyutsav/leetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pandeyutsav/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -104,6 +106,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1558-course-schedule-iv](https://github.com/pandeyutsav/leetCode/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pandeyutsav/leetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pandeyutsav/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -233,6 +236,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1396-count-servers-that-communicate](https://github.com/pandeyutsav/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyutsav/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -241,6 +245,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/pandeyutsav/leetCode/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyutsav/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |

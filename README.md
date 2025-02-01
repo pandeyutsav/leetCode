@@ -63,6 +63,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyutsav/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyutsav/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3429-special-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |

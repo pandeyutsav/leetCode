@@ -136,6 +136,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pandeyutsav/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/pandeyutsav/leetCode/tree/master/3447-clear-digits) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2465-shifting-letters-ii](https://github.com/pandeyutsav/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyutsav/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyutsav/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/pandeyutsav/leetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
@@ -288,6 +290,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pandeyutsav/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/pandeyutsav/leetCode/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |

@@ -47,6 +47,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/pandeyutsav/leetCode/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyutsav/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyutsav/leetCode/tree/master/1063-best-sightseeing-pair) |
@@ -275,6 +276,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0054-spiral-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/pandeyutsav/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/pandeyutsav/leetCode/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/pandeyutsav/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyutsav/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -306,6 +308,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pandeyutsav/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pandeyutsav/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pandeyutsav/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |

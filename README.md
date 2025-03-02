@@ -68,6 +68,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2533-bitwise-xor-of-all-pairings](https://github.com/pandeyutsav/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyutsav/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyutsav/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pandeyutsav/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/pandeyutsav/leetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -242,6 +243,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyutsav/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyutsav/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pandeyutsav/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pandeyutsav/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
@@ -292,6 +294,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pandeyutsav/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
 | ------- |

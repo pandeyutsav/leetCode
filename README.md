@@ -40,6 +40,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/pandeyutsav/leetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0054-spiral-matrix) |
@@ -242,6 +243,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/pandeyutsav/leetCode/tree/master/0041-first-missing-positive) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/pandeyutsav/leetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/pandeyutsav/leetCode/tree/master/1364-tuple-with-same-product) |

@@ -389,6 +389,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyutsav/leetCode/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/pandeyutsav/leetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/pandeyutsav/leetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |
@@ -403,4 +404,8 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/pandeyutsav/leetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

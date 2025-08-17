@@ -99,6 +99,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyutsav/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyutsav/leetCode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/pandeyutsav/leetCode/tree/master/1170-shortest-common-supersequence) |
@@ -396,6 +397,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0342-power-of-four](https://github.com/pandeyutsav/leetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/pandeyutsav/leetCode/tree/master/0797-rabbits-in-forest) |
+| [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/pandeyutsav/leetCode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyutsav/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -404,6 +406,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pandeyutsav/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Enumeration
 |  |
@@ -414,4 +417,8 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [0326-power-of-three](https://github.com/pandeyutsav/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pandeyutsav/leetCode/tree/master/0342-power-of-four) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

@@ -48,6 +48,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/pandeyutsav/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/pandeyutsav/leetCode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0797-rabbits-in-forest](https://github.com/pandeyutsav/leetCode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/pandeyutsav/leetCode/tree/master/0854-making-a-large-island) |
@@ -206,6 +207,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/pandeyutsav/leetCode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/pandeyutsav/leetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pandeyutsav/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/pandeyutsav/leetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -396,6 +398,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0326-power-of-three](https://github.com/pandeyutsav/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pandeyutsav/leetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/pandeyutsav/leetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/pandeyutsav/leetCode/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |

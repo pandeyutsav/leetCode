@@ -68,6 +68,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pandeyutsav/leetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pandeyutsav/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/pandeyutsav/leetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyutsav/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/pandeyutsav/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -404,6 +405,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/pandeyutsav/leetCode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyutsav/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyutsav/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/pandeyutsav/leetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window

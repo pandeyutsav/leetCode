@@ -79,6 +79,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2292-counting-words-with-a-given-prefix](https://github.com/pandeyutsav/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pandeyutsav/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/pandeyutsav/leetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyutsav/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/pandeyutsav/leetCode/tree/master/2465-shifting-letters-ii) |
@@ -210,6 +211,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0407-trapping-rain-water-ii](https://github.com/pandeyutsav/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/pandeyutsav/leetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/pandeyutsav/leetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -265,6 +267,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pandeyutsav/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pandeyutsav/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pandeyutsav/leetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/pandeyutsav/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyutsav/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -308,6 +311,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pandeyutsav/leetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/pandeyutsav/leetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyutsav/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -445,10 +449,12 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/pandeyutsav/leetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/pandeyutsav/leetCode/tree/master/2434-design-a-number-container-system) |
 ## Math
 |  |

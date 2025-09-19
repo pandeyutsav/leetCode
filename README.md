@@ -106,6 +106,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3643-zero-array-transformation-ii](https://github.com/pandeyutsav/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pandeyutsav/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pandeyutsav/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/pandeyutsav/leetCode/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3447-clear-digits](https://github.com/pandeyutsav/leetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/pandeyutsav/leetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pandeyutsav/leetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -322,6 +324,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pandeyutsav/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3678-design-task-manager](https://github.com/pandeyutsav/leetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/pandeyutsav/leetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pandeyutsav/leetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -406,6 +409,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pandeyutsav/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pandeyutsav/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pandeyutsav/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/pandeyutsav/leetCode/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
 | ------- |
@@ -454,6 +458,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/pandeyutsav/leetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/pandeyutsav/leetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/pandeyutsav/leetCode/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |

@@ -74,6 +74,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pandeyutsav/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pandeyutsav/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/pandeyutsav/leetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/pandeyutsav/leetCode/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pandeyutsav/leetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pandeyutsav/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -214,6 +215,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0407-trapping-rain-water-ii](https://github.com/pandeyutsav/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/pandeyutsav/leetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/pandeyutsav/leetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/pandeyutsav/leetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -313,6 +315,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1502-construct-k-palindrome-strings](https://github.com/pandeyutsav/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pandeyutsav/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pandeyutsav/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2023-design-movie-rental-system](https://github.com/pandeyutsav/leetCode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pandeyutsav/leetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -458,6 +461,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2023-design-movie-rental-system](https://github.com/pandeyutsav/leetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/pandeyutsav/leetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/pandeyutsav/leetCode/tree/master/3678-design-task-manager) |
@@ -466,6 +470,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/pandeyutsav/leetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/pandeyutsav/leetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/pandeyutsav/leetCode/tree/master/3678-design-task-manager) |

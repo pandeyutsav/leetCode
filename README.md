@@ -254,6 +254,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyutsav/leetCode/tree/master/0013-roman-to-integer) |
 | [0165-compare-version-numbers](https://github.com/pandeyutsav/leetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/pandeyutsav/leetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0409-longest-palindrome](https://github.com/pandeyutsav/leetCode/tree/master/0409-longest-palindrome) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/pandeyutsav/leetCode/tree/master/1006-vowel-spellchecker) |
@@ -304,6 +305,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0036-valid-sudoku](https://github.com/pandeyutsav/leetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pandeyutsav/leetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/pandeyutsav/leetCode/tree/master/0041-first-missing-positive) |
+| [0166-fraction-to-recurring-decimal](https://github.com/pandeyutsav/leetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0409-longest-palindrome](https://github.com/pandeyutsav/leetCode/tree/master/0409-longest-palindrome) |
 | [0797-rabbits-in-forest](https://github.com/pandeyutsav/leetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |
@@ -484,6 +486,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyutsav/leetCode/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/pandeyutsav/leetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/pandeyutsav/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pandeyutsav/leetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |

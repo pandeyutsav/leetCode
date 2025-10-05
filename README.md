@@ -40,6 +40,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pandeyutsav/leetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/pandeyutsav/leetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pandeyutsav/leetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/pandeyutsav/leetCode/tree/master/0041-first-missing-positive) |
@@ -374,6 +375,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pandeyutsav/leetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/pandeyutsav/leetCode/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/pandeyutsav/leetCode/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/pandeyutsav/leetCode/tree/master/0797-rabbits-in-forest) |
@@ -406,6 +408,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pandeyutsav/leetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/pandeyutsav/leetCode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/pandeyutsav/leetCode/tree/master/0611-valid-triangle-number) |

@@ -67,6 +67,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1018-largest-perimeter-triangle](https://github.com/pandeyutsav/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyutsav/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyutsav/leetCode/tree/master/1063-best-sightseeing-pair) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/pandeyutsav/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/pandeyutsav/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/pandeyutsav/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pandeyutsav/leetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -286,6 +287,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1160-letter-tile-possibilities](https://github.com/pandeyutsav/leetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/pandeyutsav/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pandeyutsav/leetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/pandeyutsav/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pandeyutsav/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/pandeyutsav/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pandeyutsav/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -338,6 +340,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1006-vowel-spellchecker](https://github.com/pandeyutsav/leetCode/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/pandeyutsav/leetCode/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pandeyutsav/leetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/pandeyutsav/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/pandeyutsav/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pandeyutsav/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -487,6 +490,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0611-valid-triangle-number](https://github.com/pandeyutsav/leetCode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/pandeyutsav/leetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/pandeyutsav/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1970-sorting-the-sentence](https://github.com/pandeyutsav/leetCode/tree/master/1970-sorting-the-sentence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/pandeyutsav/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |

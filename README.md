@@ -116,6 +116,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pandeyutsav/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/pandeyutsav/leetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pandeyutsav/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/pandeyutsav/leetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3643-zero-array-transformation-ii](https://github.com/pandeyutsav/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pandeyutsav/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pandeyutsav/leetCode/tree/master/3748-sort-matrix-by-diagonals) |

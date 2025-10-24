@@ -282,6 +282,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pandeyutsav/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/pandeyutsav/leetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/2107-find-unique-binary-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/pandeyutsav/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -362,6 +363,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2023-design-movie-rental-system](https://github.com/pandeyutsav/leetCode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/2107-find-unique-binary-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/pandeyutsav/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pandeyutsav/leetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/pandeyutsav/leetCode/tree/master/2434-design-a-number-container-system) |
@@ -432,6 +434,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1396-count-servers-that-communicate](https://github.com/pandeyutsav/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/pandeyutsav/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pandeyutsav/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/pandeyutsav/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyutsav/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pandeyutsav/leetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pandeyutsav/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -565,6 +568,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/pandeyutsav/leetCode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyutsav/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/pandeyutsav/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pandeyutsav/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/pandeyutsav/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -587,6 +591,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/pandeyutsav/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/pandeyutsav/leetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pandeyutsav/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/pandeyutsav/leetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |

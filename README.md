@@ -76,6 +76,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pandeyutsav/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pandeyutsav/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyutsav/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pandeyutsav/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/pandeyutsav/leetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pandeyutsav/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pandeyutsav/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -153,6 +154,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pandeyutsav/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pandeyutsav/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyutsav/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pandeyutsav/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pandeyutsav/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pandeyutsav/leetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/pandeyutsav/leetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -232,6 +234,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pandeyutsav/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pandeyutsav/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pandeyutsav/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pandeyutsav/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pandeyutsav/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -264,6 +267,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pandeyutsav/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pandeyutsav/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Graph
 |  |
@@ -427,6 +431,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1018-largest-perimeter-triangle](https://github.com/pandeyutsav/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/pandeyutsav/leetCode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/pandeyutsav/leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pandeyutsav/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pandeyutsav/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/pandeyutsav/leetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pandeyutsav/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |

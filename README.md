@@ -121,6 +121,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pandeyutsav/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/pandeyutsav/leetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pandeyutsav/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pandeyutsav/leetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/pandeyutsav/leetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/pandeyutsav/leetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -387,6 +388,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pandeyutsav/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pandeyutsav/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pandeyutsav/leetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/pandeyutsav/leetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/pandeyutsav/leetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/pandeyutsav/leetCode/tree/master/3827-implement-router) |
@@ -595,6 +597,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3227-find-missing-and-repeated-values](https://github.com/pandeyutsav/leetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pandeyutsav/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pandeyutsav/leetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/pandeyutsav/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/pandeyutsav/leetCode/tree/master/3830-find-closest-person) |

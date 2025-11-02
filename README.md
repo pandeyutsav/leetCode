@@ -92,6 +92,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2292-counting-words-with-a-given-prefix](https://github.com/pandeyutsav/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pandeyutsav/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/pandeyutsav/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/pandeyutsav/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/pandeyutsav/leetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/pandeyutsav/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
@@ -490,6 +491,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pandeyutsav/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/pandeyutsav/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/pandeyutsav/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyutsav/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/pandeyutsav/leetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -545,6 +547,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pandeyutsav/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/pandeyutsav/leetCode/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/pandeyutsav/leetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/pandeyutsav/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pandeyutsav/leetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pandeyutsav/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pandeyutsav/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |

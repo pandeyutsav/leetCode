@@ -52,6 +52,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/pandeyutsav/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pandeyutsav/leetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/pandeyutsav/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/pandeyutsav/leetCode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/pandeyutsav/leetCode/tree/master/0611-valid-triangle-number) |
@@ -153,6 +154,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/pandeyutsav/leetCode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
+| [0474-ones-and-zeroes](https://github.com/pandeyutsav/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
@@ -317,6 +319,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0165-compare-version-numbers](https://github.com/pandeyutsav/leetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pandeyutsav/leetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0409-longest-palindrome](https://github.com/pandeyutsav/leetCode/tree/master/0409-longest-palindrome) |
+| [0474-ones-and-zeroes](https://github.com/pandeyutsav/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/pandeyutsav/leetCode/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pandeyutsav/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |

@@ -333,6 +333,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1502-construct-k-palindrome-strings](https://github.com/pandeyutsav/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pandeyutsav/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pandeyutsav/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/pandeyutsav/leetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pandeyutsav/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pandeyutsav/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pandeyutsav/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -632,6 +633,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/pandeyutsav/leetCode/tree/master/1448-maximum-69-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyutsav/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/pandeyutsav/leetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/pandeyutsav/leetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/pandeyutsav/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/pandeyutsav/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |

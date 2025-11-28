@@ -196,6 +196,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pandeyutsav/leetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/pandeyutsav/leetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/pandeyutsav/leetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pandeyutsav/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
@@ -213,6 +214,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1558-course-schedule-iv](https://github.com/pandeyutsav/leetCode/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/pandeyutsav/leetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/pandeyutsav/leetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pandeyutsav/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3863-power-grid-maintenance](https://github.com/pandeyutsav/leetCode/tree/master/3863-power-grid-maintenance) |

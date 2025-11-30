@@ -80,6 +80,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/pandeyutsav/leetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pandeyutsav/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/pandeyutsav/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pandeyutsav/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyutsav/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pandeyutsav/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -379,6 +380,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pandeyutsav/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1590-make-sum-divisible-by-p](https://github.com/pandeyutsav/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyutsav/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pandeyutsav/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -414,6 +416,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pandeyutsav/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/pandeyutsav/leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1590-make-sum-divisible-by-p](https://github.com/pandeyutsav/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pandeyutsav/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pandeyutsav/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2023-design-movie-rental-system](https://github.com/pandeyutsav/leetCode/tree/master/2023-design-movie-rental-system) |

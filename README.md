@@ -135,6 +135,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pandeyutsav/leetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/pandeyutsav/leetCode/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pandeyutsav/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pandeyutsav/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/pandeyutsav/leetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -624,6 +625,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2887-sort-vowels-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyutsav/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pandeyutsav/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3433-count-mentions-per-user](https://github.com/pandeyutsav/leetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pandeyutsav/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/pandeyutsav/leetCode/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -644,6 +646,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pandeyutsav/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pandeyutsav/leetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pandeyutsav/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3433-count-mentions-per-user](https://github.com/pandeyutsav/leetCode/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pandeyutsav/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/pandeyutsav/leetCode/tree/master/3447-clear-digits) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -704,6 +707,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3227-find-missing-and-repeated-values](https://github.com/pandeyutsav/leetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pandeyutsav/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pandeyutsav/leetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/pandeyutsav/leetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/pandeyutsav/leetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |

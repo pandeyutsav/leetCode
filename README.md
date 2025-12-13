@@ -148,6 +148,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pandeyutsav/leetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/pandeyutsav/leetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/pandeyutsav/leetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/pandeyutsav/leetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pandeyutsav/leetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/pandeyutsav/leetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -386,6 +387,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pandeyutsav/leetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pandeyutsav/leetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/pandeyutsav/leetCode/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/pandeyutsav/leetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pandeyutsav/leetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -459,6 +461,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pandeyutsav/leetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/pandeyutsav/leetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/pandeyutsav/leetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/pandeyutsav/leetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pandeyutsav/leetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/pandeyutsav/leetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/pandeyutsav/leetCode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -628,6 +631,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3433-count-mentions-per-user](https://github.com/pandeyutsav/leetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pandeyutsav/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/pandeyutsav/leetCode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/pandeyutsav/leetCode/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pandeyutsav/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation

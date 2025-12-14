@@ -1,30 +1,34 @@
 class Solution {
 public:
-    int numberOfWays(string corridor) {
-        int mod = 1000000007;
-        int n = corridor.size();
-        int cnt = 0;
-        for(char c : corridor){
-            if(c == 'S') cnt++;
-        }
-        if(cnt == 0 || cnt % 2 != 0) return 0;
-        cnt = 0;
-        long long ans = 1;
-        int i = 0, p = 0; bool flag = false;
-        while(i < n){
-            if(corridor[i] == 'S'){
-                cnt++;
-                if(cnt % 2 == 0){
-                    flag = true;
-                } else if(cnt > 2){
-                    ans = (ans * (p + 1)) % mod;
-                    cnt = 1; flag = false; p = 0;
+    int numberOfWays(string& corridor) {
+        const long long mod=1e9+7;
+        int n=corridor.rfind('S'), count=1;
+        if (n<1) return 0;
+        int seat[2]={-1, -1};
+        seat[0]=corridor.find('S');
+
+        if (seat[0]==-1) return 0;
+
+        long long ans=1;
+
+        for(int i=seat[0]+1; i<=n; i++){
+            if (corridor[i]=='S'){
+                seat[count&1]=i;
+                if ((count&1)==0) {
+                //    cout<<"d="<<i-seat[1]<<endl;
+                    ans=(ans*(i-seat[1])%mod);
                 }
-            } else if(flag){
-                p++;
-            }
-            i++;
+                count++;
+            }     
         }
-        return (int)ans;
+        if (count&1) return 0;
+        return ans;
     }
 };
+auto init = []()
+{ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();

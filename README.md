@@ -65,6 +65,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0830-largest-triangle-area](https://github.com/pandeyutsav/leetCode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/pandeyutsav/leetCode/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0898-transpose-matrix) |
+| [0944-delete-columns-to-make-sorted](https://github.com/pandeyutsav/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/pandeyutsav/leetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/pandeyutsav/leetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -363,6 +364,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0166-fraction-to-recurring-decimal](https://github.com/pandeyutsav/leetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0409-longest-palindrome](https://github.com/pandeyutsav/leetCode/tree/master/0409-longest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/pandeyutsav/leetCode/tree/master/0474-ones-and-zeroes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/pandeyutsav/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/pandeyutsav/leetCode/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pandeyutsav/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |

@@ -68,6 +68,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0944-delete-columns-to-make-sorted](https://github.com/pandeyutsav/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/pandeyutsav/leetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/pandeyutsav/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/pandeyutsav/leetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/pandeyutsav/leetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/pandeyutsav/leetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -187,6 +188,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/pandeyutsav/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyutsav/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyutsav/leetCode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/pandeyutsav/leetCode/tree/master/1170-shortest-common-supersequence) |
@@ -368,6 +370,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0944-delete-columns-to-make-sorted](https://github.com/pandeyutsav/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/pandeyutsav/leetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/pandeyutsav/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/pandeyutsav/leetCode/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pandeyutsav/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/pandeyutsav/leetCode/tree/master/1160-letter-tile-possibilities) |

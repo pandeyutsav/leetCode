@@ -47,6 +47,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/pandeyutsav/leetCode/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/pandeyutsav/leetCode/tree/master/0120-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyutsav/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
@@ -739,6 +740,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyutsav/leetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/pandeyutsav/leetCode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pandeyutsav/leetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/pandeyutsav/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pandeyutsav/leetCode/tree/master/0342-power-of-four) |

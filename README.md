@@ -232,6 +232,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pandeyutsav/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pandeyutsav/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pandeyutsav/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -251,6 +252,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0794-swim-in-rising-water](https://github.com/pandeyutsav/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/pandeyutsav/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pandeyutsav/leetCode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pandeyutsav/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pandeyutsav/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -276,6 +278,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0794-swim-in-rising-water](https://github.com/pandeyutsav/leetCode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/pandeyutsav/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/pandeyutsav/leetCode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pandeyutsav/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/pandeyutsav/leetCode/tree/master/1396-count-servers-that-communicate) |
@@ -293,6 +296,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pandeyutsav/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pandeyutsav/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pandeyutsav/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -479,6 +483,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0756-pyramid-transition-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/pandeyutsav/leetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pandeyutsav/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pandeyutsav/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |

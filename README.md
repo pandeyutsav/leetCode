@@ -48,6 +48,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/pandeyutsav/leetCode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/pandeyutsav/leetCode/tree/master/0120-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyutsav/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
@@ -194,6 +195,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/pandeyutsav/leetCode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0474-ones-and-zeroes](https://github.com/pandeyutsav/leetCode/tree/master/0474-ones-and-zeroes) |
@@ -326,6 +328,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pandeyutsav/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pandeyutsav/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pandeyutsav/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -366,6 +369,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pandeyutsav/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pandeyutsav/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -637,6 +641,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0036-valid-sudoku](https://github.com/pandeyutsav/leetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pandeyutsav/leetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyutsav/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/pandeyutsav/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pandeyutsav/leetCode/tree/master/0417-pacific-atlantic-water-flow) |

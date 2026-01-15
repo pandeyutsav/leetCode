@@ -138,6 +138,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pandeyutsav/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/pandeyutsav/leetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pandeyutsav/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pandeyutsav/leetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -717,6 +718,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2402-meeting-rooms-iii](https://github.com/pandeyutsav/leetCode/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pandeyutsav/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pandeyutsav/leetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyutsav/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |

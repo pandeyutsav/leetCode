@@ -139,6 +139,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/pandeyutsav/leetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pandeyutsav/leetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pandeyutsav/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pandeyutsav/leetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -527,6 +528,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyutsav/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pandeyutsav/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pandeyutsav/leetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/pandeyutsav/leetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pandeyutsav/leetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -844,6 +846,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1925-count-square-sum-triples](https://github.com/pandeyutsav/leetCode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/pandeyutsav/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/pandeyutsav/leetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pandeyutsav/leetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pandeyutsav/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/pandeyutsav/leetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pandeyutsav/leetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |

@@ -153,6 +153,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pandeyutsav/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyutsav/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pandeyutsav/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pandeyutsav/leetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -570,6 +571,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2792-neighboring-bitwise-xor](https://github.com/pandeyutsav/leetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/pandeyutsav/leetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/pandeyutsav/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pandeyutsav/leetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie

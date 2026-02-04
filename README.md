@@ -197,6 +197,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3623-count-number-of-trapezoids-i](https://github.com/pandeyutsav/leetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/pandeyutsav/leetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/pandeyutsav/leetCode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/pandeyutsav/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/pandeyutsav/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/pandeyutsav/leetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -253,6 +254,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pandeyutsav/leetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/pandeyutsav/leetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pandeyutsav/leetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/pandeyutsav/leetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/pandeyutsav/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pandeyutsav/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pandeyutsav/leetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |

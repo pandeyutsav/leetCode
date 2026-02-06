@@ -197,6 +197,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/pandeyutsav/leetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/pandeyutsav/leetCode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/pandeyutsav/leetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/pandeyutsav/leetCode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/pandeyutsav/leetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -784,6 +785,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3531-count-covered-buildings](https://github.com/pandeyutsav/leetCode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/pandeyutsav/leetCode/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/pandeyutsav/leetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pandeyutsav/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
@@ -900,6 +902,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/pandeyutsav/leetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pandeyutsav/leetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/pandeyutsav/leetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/pandeyutsav/leetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Enumeration
 |  |

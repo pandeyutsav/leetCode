@@ -264,6 +264,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pandeyutsav/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pandeyutsav/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pandeyutsav/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -279,6 +280,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/0110-balanced-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pandeyutsav/leetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pandeyutsav/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/pandeyutsav/leetCode/tree/master/0684-redundant-connection) |
@@ -328,6 +330,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pandeyutsav/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pandeyutsav/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/pandeyutsav/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |

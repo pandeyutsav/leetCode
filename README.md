@@ -203,6 +203,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3643-zero-array-transformation-ii](https://github.com/pandeyutsav/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/pandeyutsav/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/pandeyutsav/leetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/pandeyutsav/leetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pandeyutsav/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pandeyutsav/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pandeyutsav/leetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -217,6 +218,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyutsav/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/pandeyutsav/leetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/pandeyutsav/leetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -389,6 +391,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/pandeyutsav/leetCode/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/pandeyutsav/leetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -528,6 +531,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/pandeyutsav/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/pandeyutsav/leetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/pandeyutsav/leetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pandeyutsav/leetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -593,6 +597,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3623-count-number-of-trapezoids-i](https://github.com/pandeyutsav/leetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/pandeyutsav/leetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/pandeyutsav/leetCode/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/pandeyutsav/leetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3797-design-spreadsheet](https://github.com/pandeyutsav/leetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/pandeyutsav/leetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |

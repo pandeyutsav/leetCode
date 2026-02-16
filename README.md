@@ -217,6 +217,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/pandeyutsav/leetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyutsav/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/pandeyutsav/leetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/pandeyutsav/leetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -617,6 +618,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pandeyutsav/leetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/pandeyutsav/leetCode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/pandeyutsav/leetCode/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/pandeyutsav/leetCode/tree/master/1018-binary-prefix-divisible-by-5) |

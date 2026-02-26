@@ -479,6 +479,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1170-shortest-common-supersequence](https://github.com/pandeyutsav/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pandeyutsav/leetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pandeyutsav/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pandeyutsav/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pandeyutsav/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/pandeyutsav/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pandeyutsav/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -632,6 +633,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0868-binary-gap](https://github.com/pandeyutsav/leetCode/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/pandeyutsav/leetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pandeyutsav/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pandeyutsav/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/pandeyutsav/leetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/pandeyutsav/leetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -837,6 +839,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0067-add-binary](https://github.com/pandeyutsav/leetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/pandeyutsav/leetCode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0898-transpose-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pandeyutsav/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pandeyutsav/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pandeyutsav/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/pandeyutsav/leetCode/tree/master/2169-simple-bank-system) |

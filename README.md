@@ -539,6 +539,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3447-clear-digits](https://github.com/pandeyutsav/leetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/pandeyutsav/leetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pandeyutsav/leetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pandeyutsav/leetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/pandeyutsav/leetCode/tree/master/3606-coupon-code-validator) |
@@ -695,6 +696,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pandeyutsav/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyutsav/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/pandeyutsav/leetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -729,6 +731,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3074-apple-redistribution-into-boxes](https://github.com/pandeyutsav/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pandeyutsav/leetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pandeyutsav/leetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/pandeyutsav/leetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pandeyutsav/leetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting

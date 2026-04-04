@@ -520,6 +520,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1970-sorting-the-sentence](https://github.com/pandeyutsav/leetCode/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pandeyutsav/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/pandeyutsav/leetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2107-find-unique-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pandeyutsav/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/pandeyutsav/leetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -900,6 +901,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pandeyutsav/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pandeyutsav/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/pandeyutsav/leetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pandeyutsav/leetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/pandeyutsav/leetCode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/pandeyutsav/leetCode/tree/master/2211-count-collisions-on-a-road) |

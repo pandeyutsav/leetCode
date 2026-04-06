@@ -68,6 +68,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0830-largest-triangle-area](https://github.com/pandeyutsav/leetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/pandeyutsav/leetCode/tree/master/0854-making-a-large-island) |
+| [0874-walking-robot-simulation](https://github.com/pandeyutsav/leetCode/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0898-transpose-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/pandeyutsav/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
@@ -597,6 +598,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0797-rabbits-in-forest](https://github.com/pandeyutsav/leetCode/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pandeyutsav/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/pandeyutsav/leetCode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pandeyutsav/leetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -897,6 +899,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0054-spiral-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/pandeyutsav/leetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/pandeyutsav/leetCode/tree/master/0498-diagonal-traverse) |
+| [0874-walking-robot-simulation](https://github.com/pandeyutsav/leetCode/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pandeyutsav/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |

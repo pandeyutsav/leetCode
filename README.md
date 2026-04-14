@@ -141,6 +141,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2432-number-of-zero-filled-subarrays](https://github.com/pandeyutsav/leetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/pandeyutsav/leetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2463-minimum-total-distance-traveled](https://github.com/pandeyutsav/leetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-shifting-letters-ii](https://github.com/pandeyutsav/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2529-range-product-queries-of-powers](https://github.com/pandeyutsav/leetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -280,6 +281,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/pandeyutsav/leetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pandeyutsav/leetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/pandeyutsav/leetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/pandeyutsav/leetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/pandeyutsav/leetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/pandeyutsav/leetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -881,6 +883,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pandeyutsav/leetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/pandeyutsav/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/pandeyutsav/leetCode/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/pandeyutsav/leetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2751-robot-collisions](https://github.com/pandeyutsav/leetCode/tree/master/2751-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/2887-sort-vowels-in-a-string) |

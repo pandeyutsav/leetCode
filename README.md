@@ -511,6 +511,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pandeyutsav/leetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/pandeyutsav/leetCode/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/pandeyutsav/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/pandeyutsav/leetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -719,6 +720,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/pandeyutsav/leetCode/tree/master/0796-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pandeyutsav/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyutsav/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/pandeyutsav/leetCode/tree/master/3474-lexicographically-smallest-generated-string) |

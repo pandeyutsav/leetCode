@@ -45,6 +45,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0037-sudoku-solver](https://github.com/pandeyutsav/leetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/pandeyutsav/leetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/pandeyutsav/leetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/pandeyutsav/leetCode/tree/master/0066-plus-one) |
@@ -806,6 +807,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [0036-valid-sudoku](https://github.com/pandeyutsav/leetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pandeyutsav/leetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/pandeyutsav/leetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyutsav/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -981,6 +983,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyutsav/leetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/pandeyutsav/leetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/pandeyutsav/leetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pandeyutsav/leetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pandeyutsav/leetCode/tree/master/0166-fraction-to-recurring-decimal) |

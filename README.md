@@ -51,6 +51,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0066-plus-one](https://github.com/pandeyutsav/leetCode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/pandeyutsav/leetCode/tree/master/0120-triangle) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pandeyutsav/leetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyutsav/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/pandeyutsav/leetCode/tree/master/0396-rotate-function) |
@@ -397,6 +398,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pandeyutsav/leetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyutsav/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/pandeyutsav/leetCode/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pandeyutsav/leetCode/tree/master/0744-find-smallest-letter-greater-than-target) |

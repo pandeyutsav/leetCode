@@ -88,6 +88,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1266-minimum-time-visiting-all-points](https://github.com/pandeyutsav/leetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pandeyutsav/leetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/pandeyutsav/leetCode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/pandeyutsav/leetCode/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyutsav/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pandeyutsav/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pandeyutsav/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -370,6 +371,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pandeyutsav/leetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/pandeyutsav/leetCode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/pandeyutsav/leetCode/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/pandeyutsav/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -639,6 +641,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1015-smallest-integer-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/pandeyutsav/leetCode/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pandeyutsav/leetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/pandeyutsav/leetCode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pandeyutsav/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/pandeyutsav/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |

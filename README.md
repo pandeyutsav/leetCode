@@ -580,6 +580,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/pandeyutsav/leetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pandeyutsav/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pandeyutsav/leetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/pandeyutsav/leetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyutsav/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/pandeyutsav/leetCode/tree/master/3447-clear-digits) |
@@ -681,6 +682,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pandeyutsav/leetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/pandeyutsav/leetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pandeyutsav/leetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/pandeyutsav/leetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/pandeyutsav/leetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pandeyutsav/leetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |

@@ -1,20 +1,25 @@
 class Solution {
 public:
-    int earliestFinishTime(vector<int>& startL, vector<int>& durL, vector<int>& startW, vector<int>& durW) {
-        int minL = 3000, minW = minL, res = minW;
-        int n = startL.size(), m = startW.size();
+    int calFinishTime(vector<int>& ls,vector<int>& ld,vector<int>& ws,vector<int>& wd) {
 
-        for (int i = 0; i < n; i++)
-            minL = min(minL, startL[i] + durL[i]);
+        int mini = INT_MAX;
 
-        for (int i = 0; i < m; i++) {
-            minW = min(minW, startW[i] + durW[i]);
-            res = min(res, max(minL, startW[i]) + durW[i]);
+        for (int i = 0; i < ls.size(); i++) {
+            mini = min(mini, ls[i] + ld[i]);
         }
 
-        for (int i = 0; i < n; i++)
-            res = min(res, max(minW, startL[i]) + durL[i]);
+        int ans = INT_MAX;
 
-        return res;
+        for (int i = 0; i < ws.size(); i++) {
+            ans = min(ans,max(mini, ws[i]) + wd[i]);
+        }
+
+        return ans;
+    }
+    int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration, vector<int>& waterStartTime, vector<int>& waterDuration) {
+        return min(
+            calFinishTime(landStartTime,landDuration,waterStartTime,waterDuration),
+            calFinishTime(waterStartTime,waterDuration,landStartTime,landDuration)
+        );
     }
 };

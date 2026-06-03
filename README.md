@@ -237,6 +237,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pandeyutsav/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pandeyutsav/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/pandeyutsav/leetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pandeyutsav/leetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/pandeyutsav/leetCode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/pandeyutsav/leetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -435,6 +436,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/pandeyutsav/leetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pandeyutsav/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pandeyutsav/leetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/pandeyutsav/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3827-implement-router](https://github.com/pandeyutsav/leetCode/tree/master/3827-implement-router) |
 ## Stack
@@ -805,6 +807,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3474-lexicographically-smallest-generated-string](https://github.com/pandeyutsav/leetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pandeyutsav/leetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pandeyutsav/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pandeyutsav/leetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting
 |  |
@@ -848,6 +851,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pandeyutsav/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pandeyutsav/leetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pandeyutsav/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pandeyutsav/leetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/pandeyutsav/leetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
@@ -973,6 +977,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pandeyutsav/leetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/pandeyutsav/leetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pandeyutsav/leetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pandeyutsav/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |

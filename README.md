@@ -41,6 +41,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pandeyutsav/leetCode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/pandeyutsav/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/pandeyutsav/leetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pandeyutsav/leetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/pandeyutsav/leetCode/tree/master/0041-first-missing-positive) |
@@ -413,6 +414,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pandeyutsav/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pandeyutsav/leetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyutsav/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/pandeyutsav/leetCode/tree/master/0611-valid-triangle-number) |

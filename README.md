@@ -321,6 +321,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3640-trionic-array-ii](https://github.com/pandeyutsav/leetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/pandeyutsav/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pandeyutsav/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pandeyutsav/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pandeyutsav/leetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
@@ -1102,6 +1103,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pandeyutsav/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/pandeyutsav/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pandeyutsav/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/pandeyutsav/leetCode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pandeyutsav/leetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1135,6 +1137,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/pandeyutsav/leetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/pandeyutsav/leetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/pandeyutsav/leetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pandeyutsav/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |

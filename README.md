@@ -322,6 +322,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3651-minimum-cost-path-with-teleportations](https://github.com/pandeyutsav/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pandeyutsav/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pandeyutsav/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/pandeyutsav/leetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pandeyutsav/leetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
@@ -1104,6 +1105,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/pandeyutsav/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pandeyutsav/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/pandeyutsav/leetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/pandeyutsav/leetCode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pandeyutsav/leetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |

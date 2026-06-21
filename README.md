@@ -117,6 +117,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pandeyutsav/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pandeyutsav/leetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/pandeyutsav/leetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/pandeyutsav/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pandeyutsav/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/pandeyutsav/leetCode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pandeyutsav/leetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -817,6 +818,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pandeyutsav/leetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pandeyutsav/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pandeyutsav/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/pandeyutsav/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pandeyutsav/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pandeyutsav/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/pandeyutsav/leetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -977,6 +979,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pandeyutsav/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pandeyutsav/leetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pandeyutsav/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/pandeyutsav/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/pandeyutsav/leetCode/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pandeyutsav/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1264,4 +1267,8 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1559-detect-cycles-in-2d-grid](https://github.com/pandeyutsav/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pandeyutsav/leetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/pandeyutsav/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

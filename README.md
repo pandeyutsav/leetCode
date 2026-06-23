@@ -330,6 +330,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/pandeyutsav/leetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/pandeyutsav/leetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/pandeyutsav/leetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/pandeyutsav/leetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pandeyutsav/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pandeyutsav/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/pandeyutsav/leetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -661,6 +662,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/pandeyutsav/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/pandeyutsav/leetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/pandeyutsav/leetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/pandeyutsav/leetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/pandeyutsav/leetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/pandeyutsav/leetCode/tree/master/3721-longest-balanced-subarray-ii) |

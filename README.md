@@ -204,6 +204,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3242-count-elements-with-maximum-frequency](https://github.com/pandeyutsav/leetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pandeyutsav/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pandeyutsav/leetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyutsav/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -421,6 +422,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pandeyutsav/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/pandeyutsav/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pandeyutsav/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -520,6 +522,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pandeyutsav/leetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandeyutsav/leetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pandeyutsav/leetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pandeyutsav/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -953,6 +956,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pandeyutsav/leetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pandeyutsav/leetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/pandeyutsav/leetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/pandeyutsav/leetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pandeyutsav/leetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/pandeyutsav/leetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -968,6 +972,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/pandeyutsav/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/pandeyutsav/leetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/pandeyutsav/leetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union Find
 |  |
@@ -1284,6 +1289,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/pandeyutsav/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/pandeyutsav/leetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/pandeyutsav/leetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
 |  |

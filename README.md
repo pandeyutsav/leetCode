@@ -389,6 +389,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pandeyutsav/leetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/pandeyutsav/leetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/pandeyutsav/leetCode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pandeyutsav/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/pandeyutsav/leetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -419,6 +420,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1559-detect-cycles-in-2d-grid](https://github.com/pandeyutsav/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/pandeyutsav/leetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/pandeyutsav/leetCode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pandeyutsav/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/pandeyutsav/leetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pandeyutsav/leetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -1293,6 +1295,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pandeyutsav/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/pandeyutsav/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/pandeyutsav/leetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1307,6 +1310,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/pandeyutsav/leetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pandeyutsav/leetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pandeyutsav/leetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting Sort

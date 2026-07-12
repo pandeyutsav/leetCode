@@ -1,33 +1,12 @@
-using int2=pair<int, int>;
-constexpr int N=1e5;
-int2 arrIdx[N];
 class Solution {
 public:
-    static vector<int> arrayRankTransform(vector<int>& arr) {
-        const int n=arr.size();
-        if (n==0) return {};
-        
-        for(int i=0; int x: arr){
-            arrIdx[i]={x, i};
-            i++;
+    vector<int> arrayRankTransform(vector<int>& arr) {
+        vector<int> s = arr;
+        sort(s.begin(), s.end());
+        s.erase(unique(s.begin(), s.end()), s.end());
+        for (int i = 0; i < arr.size(); i++) {
+            arr[i] = lower_bound(s.begin(), s.end(), arr[i]) - s.begin() + 1;
         }
-        sort(arrIdx, arrIdx+n);
-        vector<int> ans(n);
-        int prev=INT_MIN, curr=0;
-        for(int j=0; j<n; j++){
-            auto& [x, i]=arrIdx[j];
-            if (x>prev) curr++;
-            ans[i]=curr;
-            prev=x;
-        }
-        return ans;
+        return arr;
     }
 };
-
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();

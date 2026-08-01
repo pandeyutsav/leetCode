@@ -86,6 +86,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyutsav/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyutsav/leetCode/tree/master/1063-best-sightseeing-pair) |
 | [1200-minimum-absolute-difference](https://github.com/pandeyutsav/leetCode/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/pandeyutsav/leetCode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/pandeyutsav/leetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pandeyutsav/leetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/pandeyutsav/leetCode/tree/master/1288-remove-covered-intervals) |
@@ -986,6 +987,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0840-magic-squares-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/pandeyutsav/leetCode/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0898-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/pandeyutsav/leetCode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pandeyutsav/leetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/pandeyutsav/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyutsav/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1121,6 +1123,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0498-diagonal-traverse](https://github.com/pandeyutsav/leetCode/tree/master/0498-diagonal-traverse) |
 | [0874-walking-robot-simulation](https://github.com/pandeyutsav/leetCode/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0898-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/pandeyutsav/leetCode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pandeyutsav/leetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1914-cyclically-rotating-a-grid) |

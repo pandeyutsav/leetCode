@@ -74,6 +74,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0840-magic-squares-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/pandeyutsav/leetCode/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/pandeyutsav/leetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/pandeyutsav/leetCode/tree/master/0877-stone-game) |
 | [0898-transpose-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0898-transpose-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/pandeyutsav/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
@@ -319,6 +320,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0788-rotated-digits](https://github.com/pandeyutsav/leetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/pandeyutsav/leetCode/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/pandeyutsav/leetCode/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/pandeyutsav/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyutsav/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyutsav/leetCode/tree/master/1063-best-sightseeing-pair) |
@@ -1201,6 +1203,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0830-largest-triangle-area](https://github.com/pandeyutsav/leetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/pandeyutsav/leetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/pandeyutsav/leetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/pandeyutsav/leetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -1334,6 +1337,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pandeyutsav/leetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/pandeyutsav/leetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |

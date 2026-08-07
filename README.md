@@ -609,6 +609,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/pandeyutsav/leetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/pandeyutsav/leetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/pandeyutsav/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -679,6 +680,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3121-count-the-number-of-special-characters-ii](https://github.com/pandeyutsav/leetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyutsav/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/pandeyutsav/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3447-clear-digits](https://github.com/pandeyutsav/leetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -918,6 +920,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3074-apple-redistribution-into-boxes](https://github.com/pandeyutsav/leetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pandeyutsav/leetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pandeyutsav/leetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/pandeyutsav/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/pandeyutsav/leetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pandeyutsav/leetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pandeyutsav/leetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1245,6 +1248,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pandeyutsav/leetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pandeyutsav/leetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pandeyutsav/leetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/pandeyutsav/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pandeyutsav/leetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/pandeyutsav/leetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -1353,6 +1357,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pandeyutsav/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pandeyutsav/leetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pandeyutsav/leetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/pandeyutsav/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/pandeyutsav/leetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pandeyutsav/leetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |

@@ -668,6 +668,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pandeyutsav/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pandeyutsav/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pandeyutsav/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/pandeyutsav/leetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pandeyutsav/leetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-sorting-the-sentence](https://github.com/pandeyutsav/leetCode/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pandeyutsav/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -938,6 +939,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pandeyutsav/leetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pandeyutsav/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/pandeyutsav/leetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/pandeyutsav/leetCode/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/pandeyutsav/leetCode/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/pandeyutsav/leetCode/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/pandeyutsav/leetCode/tree/master/2126-destroying-asteroids) |
@@ -1268,6 +1270,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1840-maximum-building-height](https://github.com/pandeyutsav/leetCode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/pandeyutsav/leetCode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/pandeyutsav/leetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pandeyutsav/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/pandeyutsav/leetCode/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pandeyutsav/leetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1396,6 +1399,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1406-stone-game-iii](https://github.com/pandeyutsav/leetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pandeyutsav/leetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pandeyutsav/leetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/pandeyutsav/leetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pandeyutsav/leetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory

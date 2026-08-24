@@ -136,6 +136,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pandeyutsav/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pandeyutsav/leetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/pandeyutsav/leetCode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/pandeyutsav/leetCode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pandeyutsav/leetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pandeyutsav/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -356,6 +357,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pandeyutsav/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/pandeyutsav/leetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/pandeyutsav/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/pandeyutsav/leetCode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pandeyutsav/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/pandeyutsav/leetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pandeyutsav/leetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -728,6 +730,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pandeyutsav/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/pandeyutsav/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyutsav/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1872-stone-game-viii](https://github.com/pandeyutsav/leetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pandeyutsav/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/pandeyutsav/leetCode/tree/master/1895-largest-magic-square) |
@@ -1268,6 +1271,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1636-number-of-substrings-with-only-1s](https://github.com/pandeyutsav/leetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/pandeyutsav/leetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/pandeyutsav/leetCode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/pandeyutsav/leetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/pandeyutsav/leetCode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/pandeyutsav/leetCode/tree/master/1927-sum-game) |
@@ -1399,6 +1403,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1406-stone-game-iii](https://github.com/pandeyutsav/leetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pandeyutsav/leetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pandeyutsav/leetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/pandeyutsav/leetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/pandeyutsav/leetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pandeyutsav/leetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -1492,12 +1497,14 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [1140-stone-game-ii](https://github.com/pandeyutsav/leetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/pandeyutsav/leetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/pandeyutsav/leetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pandeyutsav/leetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/pandeyutsav/leetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/pandeyutsav/leetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/pandeyutsav/leetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/pandeyutsav/leetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |

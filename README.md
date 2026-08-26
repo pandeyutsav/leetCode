@@ -691,6 +691,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2483-minimum-penalty-for-a-shop](https://github.com/pandeyutsav/leetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyutsav/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pandeyutsav/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/pandeyutsav/leetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/pandeyutsav/leetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pandeyutsav/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1335,6 +1336,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pandeyutsav/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pandeyutsav/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pandeyutsav/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pandeyutsav/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pandeyutsav/leetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pandeyutsav/leetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pandeyutsav/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |

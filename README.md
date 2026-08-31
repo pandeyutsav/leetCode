@@ -1449,6 +1449,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Linked List
 |  |
 | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pandeyutsav/leetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pandeyutsav/leetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pandeyutsav/leetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |

@@ -306,6 +306,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3863-power-grid-maintenance](https://github.com/pandeyutsav/leetCode/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyutsav/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/pandeyutsav/leetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -771,6 +772,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pandeyutsav/leetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pandeyutsav/leetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pandeyutsav/leetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3904-smallest-stable-index-ii](https://github.com/pandeyutsav/leetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |

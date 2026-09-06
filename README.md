@@ -327,6 +327,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/pandeyutsav/leetCode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/pandeyutsav/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/pandeyutsav/leetCode/tree/master/0396-rotate-function) |
@@ -640,6 +641,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyutsav/leetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/pandeyutsav/leetCode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/pandeyutsav/leetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pandeyutsav/leetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0409-longest-palindrome](https://github.com/pandeyutsav/leetCode/tree/master/0409-longest-palindrome) |

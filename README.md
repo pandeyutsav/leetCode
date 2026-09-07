@@ -340,6 +340,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0799-champagne-tower](https://github.com/pandeyutsav/leetCode/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/pandeyutsav/leetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/pandeyutsav/leetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/pandeyutsav/leetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/pandeyutsav/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/pandeyutsav/leetCode/tree/master/1063-best-sightseeing-pair) |
@@ -651,6 +652,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0756-pyramid-transition-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/pandeyutsav/leetCode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/pandeyutsav/leetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/pandeyutsav/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/pandeyutsav/leetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |

@@ -1280,6 +1280,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0788-rotated-digits](https://github.com/pandeyutsav/leetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/pandeyutsav/leetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/pandeyutsav/leetCode/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/pandeyutsav/leetCode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/pandeyutsav/leetCode/tree/master/0877-stone-game) |
@@ -1416,6 +1417,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/pandeyutsav/leetCode/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/pandeyutsav/leetCode/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pandeyutsav/leetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pandeyutsav/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pandeyutsav/leetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |

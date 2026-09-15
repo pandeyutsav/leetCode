@@ -374,6 +374,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pandeyutsav/leetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/pandeyutsav/leetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pandeyutsav/leetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/pandeyutsav/leetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/pandeyutsav/leetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/pandeyutsav/leetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -705,6 +706,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pandeyutsav/leetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/pandeyutsav/leetCode/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/pandeyutsav/leetCode/tree/master/2465-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pandeyutsav/leetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/pandeyutsav/leetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyutsav/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -972,6 +974,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2126-destroying-asteroids](https://github.com/pandeyutsav/leetCode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pandeyutsav/leetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/pandeyutsav/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pandeyutsav/leetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2509-minimize-xor](https://github.com/pandeyutsav/leetCode/tree/master/2509-minimize-xor) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pandeyutsav/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1036,6 +1039,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pandeyutsav/leetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pandeyutsav/leetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/pandeyutsav/leetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pandeyutsav/leetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/pandeyutsav/leetCode/tree/master/2540-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pandeyutsav/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pandeyutsav/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

@@ -111,6 +111,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pandeyutsav/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pandeyutsav/leetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/pandeyutsav/leetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -355,6 +356,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1406-stone-game-iii](https://github.com/pandeyutsav/leetCode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/pandeyutsav/leetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/pandeyutsav/leetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pandeyutsav/leetCode/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pandeyutsav/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -515,6 +517,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0794-swim-in-rising-water](https://github.com/pandeyutsav/leetCode/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pandeyutsav/leetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandeyutsav/leetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/pandeyutsav/leetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/pandeyutsav/leetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/pandeyutsav/leetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -815,6 +818,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1386-cinema-seat-allocation](https://github.com/pandeyutsav/leetCode/tree/master/1386-cinema-seat-allocation) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pandeyutsav/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pandeyutsav/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/pandeyutsav/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1590-make-sum-divisible-by-p](https://github.com/pandeyutsav/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pandeyutsav/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1368,6 +1372,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0867-new-21-game](https://github.com/pandeyutsav/leetCode/tree/master/0867-new-21-game) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pandeyutsav/leetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pandeyutsav/leetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pandeyutsav/leetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pandeyutsav/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pandeyutsav/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

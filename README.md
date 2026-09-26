@@ -130,6 +130,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pandeyutsav/leetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pandeyutsav/leetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pandeyutsav/leetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pandeyutsav/leetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/pandeyutsav/leetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/pandeyutsav/leetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pandeyutsav/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -696,6 +697,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pandeyutsav/leetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pandeyutsav/leetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pandeyutsav/leetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pandeyutsav/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pandeyutsav/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pandeyutsav/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -834,6 +836,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pandeyutsav/leetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/pandeyutsav/leetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pandeyutsav/leetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pandeyutsav/leetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pandeyutsav/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2023-design-movie-rental-system](https://github.com/pandeyutsav/leetCode/tree/master/2023-design-movie-rental-system) |

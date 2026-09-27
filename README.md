@@ -557,6 +557,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pandeyutsav/leetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/pandeyutsav/leetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pandeyutsav/leetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pandeyutsav/leetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/pandeyutsav/leetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -681,6 +682,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1096-brace-expansion-ii](https://github.com/pandeyutsav/leetCode/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/pandeyutsav/leetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/pandeyutsav/leetCode/tree/master/1170-shortest-common-supersequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pandeyutsav/leetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/pandeyutsav/leetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pandeyutsav/leetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1586,4 +1588,8 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/pandeyutsav/leetCode/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

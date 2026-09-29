@@ -170,6 +170,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pandeyutsav/leetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pandeyutsav/leetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/pandeyutsav/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pandeyutsav/leetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pandeyutsav/leetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pandeyutsav/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pandeyutsav/leetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -376,6 +377,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2054-two-best-non-overlapping-events](https://github.com/pandeyutsav/leetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/pandeyutsav/leetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/pandeyutsav/leetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pandeyutsav/leetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/pandeyutsav/leetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/pandeyutsav/leetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -1112,6 +1114,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1970-last-day-where-you-can-still-cross](https://github.com/pandeyutsav/leetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/pandeyutsav/leetCode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/pandeyutsav/leetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pandeyutsav/leetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/pandeyutsav/leetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/pandeyutsav/leetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/pandeyutsav/leetCode/tree/master/2625-increment-submatrices-by-one) |
@@ -1595,4 +1598,5 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pandeyutsav/leetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

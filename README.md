@@ -332,6 +332,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pandeyutsav/leetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
@@ -557,6 +558,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pandeyutsav/leetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -669,6 +671,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0013-roman-to-integer](https://github.com/pandeyutsav/leetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/pandeyutsav/leetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/pandeyutsav/leetCode/tree/master/0165-compare-version-numbers) |
@@ -1605,6 +1608,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pandeyutsav/leetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

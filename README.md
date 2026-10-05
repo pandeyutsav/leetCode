@@ -563,6 +563,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0042-trapping-rain-water](https://github.com/pandeyutsav/leetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/pandeyutsav/leetCode/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyutsav/leetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pandeyutsav/leetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/pandeyutsav/leetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pandeyutsav/leetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -686,6 +687,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0756-pyramid-transition-matrix](https://github.com/pandeyutsav/leetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/pandeyutsav/leetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/pandeyutsav/leetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/pandeyutsav/leetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/pandeyutsav/leetCode/tree/master/0952-word-subsets) |
@@ -1614,6 +1616,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0022-generate-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyutsav/leetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pandeyutsav/leetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

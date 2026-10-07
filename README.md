@@ -467,6 +467,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/pandeyutsav/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pandeyutsav/leetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pandeyutsav/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -656,6 +657,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | ------- |
 | [0022-generate-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/pandeyutsav/leetCode/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/pandeyutsav/leetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/pandeyutsav/leetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/pandeyutsav/leetCode/tree/master/0679-24-game) |
@@ -679,6 +681,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [0115-distinct-subsequences](https://github.com/pandeyutsav/leetCode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/pandeyutsav/leetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pandeyutsav/leetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0301-remove-invalid-parentheses](https://github.com/pandeyutsav/leetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0409-longest-palindrome](https://github.com/pandeyutsav/leetCode/tree/master/0409-longest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/pandeyutsav/leetCode/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyutsav/leetCode/tree/master/0678-valid-parenthesis-string) |

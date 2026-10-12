@@ -206,6 +206,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2784-check-if-array-is-good](https://github.com/pandeyutsav/leetCode/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/pandeyutsav/leetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeyutsav/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/pandeyutsav/leetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pandeyutsav/leetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pandeyutsav/leetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -891,6 +892,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyutsav/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pandeyutsav/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/pandeyutsav/leetCode/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeyutsav/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pandeyutsav/leetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pandeyutsav/leetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pandeyutsav/leetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -959,6 +961,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2533-bitwise-xor-of-all-pairings](https://github.com/pandeyutsav/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/pandeyutsav/leetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/pandeyutsav/leetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeyutsav/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pandeyutsav/leetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -1034,6 +1037,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2509-minimize-xor](https://github.com/pandeyutsav/leetCode/tree/master/2509-minimize-xor) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pandeyutsav/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeyutsav/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pandeyutsav/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pandeyutsav/leetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pandeyutsav/leetCode/tree/master/3074-apple-redistribution-into-boxes) |

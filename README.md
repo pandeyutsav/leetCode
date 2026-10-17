@@ -269,6 +269,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pandeyutsav/leetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/pandeyutsav/leetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pandeyutsav/leetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pandeyutsav/leetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/pandeyutsav/leetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/pandeyutsav/leetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pandeyutsav/leetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -925,6 +926,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3531-count-covered-buildings](https://github.com/pandeyutsav/leetCode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pandeyutsav/leetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/pandeyutsav/leetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pandeyutsav/leetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pandeyutsav/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pandeyutsav/leetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/pandeyutsav/leetCode/tree/master/3583-count-special-triplets) |
@@ -1264,6 +1266,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3531-count-covered-buildings](https://github.com/pandeyutsav/leetCode/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pandeyutsav/leetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/pandeyutsav/leetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pandeyutsav/leetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pandeyutsav/leetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/pandeyutsav/leetCode/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/pandeyutsav/leetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |

@@ -322,6 +322,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3863-power-grid-maintenance](https://github.com/pandeyutsav/leetCode/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyutsav/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/pandeyutsav/leetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/pandeyutsav/leetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
@@ -1284,6 +1285,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pandeyutsav/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pandeyutsav/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyutsav/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/pandeyutsav/leetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -1452,6 +1454,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyutsav/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/pandeyutsav/leetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/pandeyutsav/leetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1494,6 +1497,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3548-equal-sum-grid-partition-ii](https://github.com/pandeyutsav/leetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pandeyutsav/leetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pandeyutsav/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/pandeyutsav/leetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |

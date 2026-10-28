@@ -325,6 +325,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3863-power-grid-maintenance](https://github.com/pandeyutsav/leetCode/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pandeyutsav/leetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pandeyutsav/leetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/pandeyutsav/leetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/pandeyutsav/leetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/pandeyutsav/leetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -423,6 +424,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pandeyutsav/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/pandeyutsav/leetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pandeyutsav/leetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -1003,6 +1005,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3676-smallest-number-with-all-set-bits](https://github.com/pandeyutsav/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pandeyutsav/leetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/pandeyutsav/leetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -1200,6 +1203,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pandeyutsav/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pandeyutsav/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/pandeyutsav/leetCode/tree/master/3797-design-spreadsheet) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |

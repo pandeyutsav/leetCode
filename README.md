@@ -315,6 +315,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3721-longest-balanced-subarray-ii](https://github.com/pandeyutsav/leetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pandeyutsav/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pandeyutsav/leetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pandeyutsav/leetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pandeyutsav/leetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pandeyutsav/leetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pandeyutsav/leetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1467,6 +1468,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/pandeyutsav/leetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/pandeyutsav/leetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/pandeyutsav/leetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pandeyutsav/leetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pandeyutsav/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/pandeyutsav/leetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pandeyutsav/leetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |

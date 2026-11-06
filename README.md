@@ -204,6 +204,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyutsav/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pandeyutsav/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pandeyutsav/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/pandeyutsav/leetCode/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/pandeyutsav/leetCode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/pandeyutsav/leetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -927,6 +928,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/pandeyutsav/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pandeyutsav/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/pandeyutsav/leetCode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/pandeyutsav/leetCode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeyutsav/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pandeyutsav/leetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1286,6 +1288,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2402-meeting-rooms-iii](https://github.com/pandeyutsav/leetCode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/pandeyutsav/leetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2747-count-zero-request-servers](https://github.com/pandeyutsav/leetCode/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/pandeyutsav/leetCode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/pandeyutsav/leetCode/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -1501,6 +1504,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/pandeyutsav/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pandeyutsav/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pandeyutsav/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2747-count-zero-request-servers](https://github.com/pandeyutsav/leetCode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pandeyutsav/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pandeyutsav/leetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pandeyutsav/leetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |

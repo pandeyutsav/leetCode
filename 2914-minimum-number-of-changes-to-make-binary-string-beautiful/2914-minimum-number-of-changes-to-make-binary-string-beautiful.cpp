@@ -1,12 +1,6 @@
 class Solution {
 public:
     int minChanges(string s) {
-        int changes = 0;
-        for (int i = 0; i < s.length(); i += 2) {
-            if (s[i] != s[i + 1]) {
-                changes++;
-            }
-        }
-        return changes;
+        return ranges::count_if(s | views::chunk(2), [](auto pair) { return pair[0] != pair[1]; });
     }
 };

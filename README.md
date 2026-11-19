@@ -200,6 +200,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2533-bitwise-xor-of-all-pairings](https://github.com/pandeyutsav/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2540-minimum-common-value](https://github.com/pandeyutsav/leetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pandeyutsav/leetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pandeyutsav/leetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/pandeyutsav/leetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/pandeyutsav/leetCode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pandeyutsav/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1102,6 +1103,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2333-minimum-sum-of-squared-difference](https://github.com/pandeyutsav/leetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pandeyutsav/leetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2509-minimize-xor](https://github.com/pandeyutsav/leetCode/tree/master/2509-minimize-xor) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pandeyutsav/leetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/pandeyutsav/leetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pandeyutsav/leetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pandeyutsav/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1315,6 +1317,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2402-meeting-rooms-iii](https://github.com/pandeyutsav/leetCode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/pandeyutsav/leetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pandeyutsav/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pandeyutsav/leetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/pandeyutsav/leetCode/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/pandeyutsav/leetCode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/pandeyutsav/leetCode/tree/master/2784-check-if-array-is-good) |

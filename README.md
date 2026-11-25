@@ -345,6 +345,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pandeyutsav/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/pandeyutsav/leetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/pandeyutsav/leetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/pandeyutsav/leetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/pandeyutsav/leetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
@@ -610,6 +611,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pandeyutsav/leetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/pandeyutsav/leetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3827-implement-router](https://github.com/pandeyutsav/leetCode/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/pandeyutsav/leetCode/tree/master/3934-smallest-unique-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -1011,6 +1013,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/pandeyutsav/leetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/pandeyutsav/leetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pandeyutsav/leetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/pandeyutsav/leetCode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1061,6 +1064,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyutsav/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/pandeyutsav/leetCode/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -1072,6 +1076,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/pandeyutsav/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/pandeyutsav/leetCode/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -1767,4 +1772,8 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pandeyutsav/leetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/pandeyutsav/leetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->

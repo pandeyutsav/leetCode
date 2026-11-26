@@ -1394,6 +1394,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [2751-robot-collisions](https://github.com/pandeyutsav/leetCode/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pandeyutsav/leetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pandeyutsav/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3360-stone-removal-game](https://github.com/pandeyutsav/leetCode/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/pandeyutsav/leetCode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/pandeyutsav/leetCode/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pandeyutsav/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1507,6 +1508,7 @@ Feel free to tweak it to reflect your preferences or additional repository featu
 | [3312-sorted-gcd-pair-queries](https://github.com/pandeyutsav/leetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pandeyutsav/leetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pandeyutsav/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/pandeyutsav/leetCode/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pandeyutsav/leetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/pandeyutsav/leetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/pandeyutsav/leetCode/tree/master/3462-vowels-game-in-a-string) |
